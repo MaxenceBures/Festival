@@ -16,10 +16,7 @@ public class Festival {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("test1");
-        System.out.println("test2");
-        System.out.println("test3");
-        System.out.println("eclipse");
-        System.out.println("Netbeans");
+
     
     }
 }
